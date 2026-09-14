@@ -1,0 +1,11 @@
+{
+  "name": "code-journey-tracker",
+  "version": "1.0.0",
+  "description": "Universal Coding Journey Tracker across LeetCode, Codeforces, GitHub, and CodeChef",
+  "scripts": {
+    "dev:server": "cd server && npm start",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start"
+  }
+}

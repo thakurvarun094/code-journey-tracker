@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "usr_1789277504919_p5mast",
+      "username": "coder_1789277504473",
+      "email": "coder_1789277504473@example.com",
+      "name": "Demo Master",
+      "passwordHash": "$2a$10$AS8/1W1y263NE/tH8gYVlugdtZkTm3QJ2rTBfeU3Bpm8j8q7/Z7Ei",
+      "handles": {
+        "leetcode": "neal_wu",
+        "codeforces": "tourist",
+        "github": "torvalds",
+        "codechef": "gennady.korotkevich"
+      },
+      "goals": [
+        {
+          "id": "goal_1",
+          "text": "Solve 100 LeetCode problems",
+          "platform": "leetcode",
+          "target": 100,
+          "completed": false,
+          "createdAt": "2026-09-13T05:31:44.920Z"
+        },
+        {
+          "id": "goal_2",
+          "text": "Reach Codeforces Specialist (1400+)",
+          "platform": "codeforces",
+          "target": 1400,
+          "completed": false,
+          "createdAt": "2026-09-13T05:31:44.920Z"
+        },
+        {
+          "id": "goal_3",
+          "text": "Contribute to open source on GitHub",
+          "platform": "github",
+          "target": 5,
+          "completed": false,
+          "createdAt": "2026-09-13T05:31:44.920Z"
+        },
+        {
+          "id": "goal_1789277504972",
+          "text": "Reach 2000 Codeforces rating",
+          "platform": "codeforces",
+          "target": 0,
+          "completed": false,
+          "createdAt": "2026-09-13T05:31:44.972Z"
+        }
+      ],
+      "createdAt": "2026-09-13T05:31:44.920Z",
+      "lastLogin": "2026-09-13T05:31:44.920Z"
+    },
+    {
+      "id": "usr_1789277823489_igdxnb",
+      "username": "varun123",
+      "email": "vk743431@gmail.com",
+      "name": "Varun",
+      "passwordHash": "$2a$10$khvbvgju6cDV01RokJt8MuX5EU9VW2QGhBlPzUpLnVISENBEd3Qmy",
+      "handles": {
+        "leetcode": "11SS3k1jg2",
+        "codeforces": "VarunThakur",
+        "github": "thakurvarun094",
+        "codechef": "varun_thakur"
+      },
+      "goals": [
+        {
+          "id": "goal_1",
+          "text": "Solve 100 LeetCode problems",
+          "platform": "leetcode",
+          "target": 100,
+          "completed": false,
+          "createdAt": "2026-09-13T05:37:03.489Z"
+        },
+        {
+          "id": "goal_2",
+          "text": "Reach Codeforces Specialist (1400+)",
+          "platform": "codeforces",
+          "target": 1400,
+          "completed": false,
+          "createdAt": "2026-09-13T05:37:03.489Z"
+        },
+        {
+          "id": "goal_3",
+          "text": "Contribute to open source on GitHub",
+          "platform": "github",
+          "target": 5,
+          "completed": false,
+          "createdAt": "2026-09-13T05:37:03.489Z"
+        }
+      ],
+      "createdAt": "2026-09-13T05:37:03.489Z",
+      "lastLogin": "2026-09-13T05:37:03.489Z"
+    }
+  ]
+}
