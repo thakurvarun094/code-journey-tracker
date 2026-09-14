@@ -67,16 +67,6 @@ Frontend Serving	GET /	✅ Passed	Built static app served on HTTP 200
 🚀 Running the Project
 The application is currently running live on: http://localhost:5000
 
-Repository Location
-`C:\Users\thaku.gemini\antigravity\scratch\code-journey-tracker`
-
-Commands to Run Anytime
-1. Unified Server (Serves API + Frontend)
-powershell
-
-cd C:\Users\thaku\.gemini\antigravity\scratch\code-journey-tracker\server
-npm start
-Open http://localhost:5000 in your browser.
 
 2. Frontend Hot-Reload Dev Server (Optional)
 powershell
